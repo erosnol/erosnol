@@ -1,4 +1,4 @@
-<h3>🚀 About me</h3>
+<h3> About me</h3>
 
 🔭 Currently learning Solidity, Google Cloud & Data Structures<br>📚 Recently completed a 15-week Bootcamp<br>💻 Open source contributing<br>💸 Decentralizing companies<br>🚴🏽‍♂️ When not coding, I cycle & lift weights<br><br>
 
