@@ -1,7 +1,7 @@
-<h3> 🚀 About me</h3>
+<!-- <h3> 🚀 About me</h3>
 
 🔭 Currently learning Solidity, Google Cloud & Data Structures<br>📚 Recently completed a 15-week Bootcamp<br>💻 Open source contributing<br>💸 Decentralizing companies<br>🚴🏽‍♂️ When not coding, I cycle & lift weights<br><br>
-
+ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erosnolasco) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ErosNolascoMendoza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erosnolasco) 
 
